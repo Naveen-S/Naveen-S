@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Node.js  
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Node.js | Tailwind
 - 💻 &nbsp; Java | Python
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
