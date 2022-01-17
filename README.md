@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Computer Science from PESIT.
-- 💼 &nbsp; Working as a Principal Software Engineer at Perfios.
+- 💼 &nbsp; Working as Senior Software Engineer at Tekion.
 - 🌱 &nbsp; Learning more about FrontEnd Technologies.
 - 🏸 &nbsp; Playing badminton is my nirvana.
 
