@@ -6,13 +6,13 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Computer Science from PESIT.
-- 💼 &nbsp; Working as Senior Software Engineer at Tekion.
-- 🌱 &nbsp; Learning more about FrontEnd Technologies.
+- 💼 &nbsp; Working as Lead Software Engineer at Tekion.
+- 🌱 &nbsp; Architecting scalable and robust applications.
 - 🏸 &nbsp; Playing badminton is my nirvana.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Node.js | Tailwind
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NextJS | Bootstrap | Node.js | Tailwind
 - 💻 &nbsp; Java | Python
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Git | Markdown
